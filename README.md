@@ -41,9 +41,16 @@ Our analysis revealed several statistically significant patterns that define a m
 
 ### How to Run Locally
 
+**0. Download the Data**
+
+The dataset files are too large for this GitHub repository. Please download them from the links below and place them inside a `data/` folder in the root of the project.
+
+https://drive.google.com/drive/folders/1n7orfcEpQHtS1qQOGRaD9yMDv2Q_RbaL?usp=sharing 
+
+
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/valentinbergm/spotify-hit-song-analysis.git](https://github.com/valentinbergm/spotify-hit-song-analysis.git)
+    git clone https://github.com/valentinbergm/spotify-hit-song-analysis.git
     cd spotify-hit-song-analysis
     ```
 2.  **Create and activate a virtual environment:**
@@ -59,4 +66,3 @@ Our analysis revealed several statistically significant patterns that define a m
     ```bash
     jupyter notebook
     ```
-5.  Navigate to the `notebooks` folder and open `spotify_hit_analysis.ipynb`.
