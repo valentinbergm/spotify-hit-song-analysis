@@ -31,7 +31,7 @@ Our analysis revealed several statistically significant patterns that define a m
 *   **Fridays in Autumn show the highest success rates for releases,** confirming established industry patterns for maximizing release impact.
 
 *For a full, step-by-step walkthrough of the analysis, please see the accompanying Jupyter Notebook:* 
-### **[➡️ View the Full Analysis Notebook](./notebooks/spotify_hit_analysis.ipynb)**
+### **[➡️ View the Full Analysis Notebook](https://github.com/valentinbergm/spotify-hit-song-analysis/blob/main/spotify_hit_song_analysis.ipynb)**
 
 ---
 
