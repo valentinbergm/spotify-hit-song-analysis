@@ -3,8 +3,8 @@
 ### Project Overview
 
 This project is a deep-dive exploratory data analysis (EDA) into a dataset of over 170,000 Spotify tracks released since 2000. The primary goal is to identify and quantify the key characteristics that differentiate chart-topping hits from the average song. 
-
 The analysis follows a structured pipeline from data cleaning and feature engineering to statistical testing and professional, McKinsey-style data visualization. The final result is a comprehensive profile of a "hit song" based on its audio features, artist popularity, and release strategy.
+
 ---
 
 ### Key Questions
