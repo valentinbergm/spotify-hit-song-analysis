@@ -39,20 +39,6 @@ Our analysis revealed several statistically significant patterns that define a m
 
 ---
 
-### Repository Structure
-
-.
-├── .gitignore
-├── README.md
-├── requirements.txt
-├── data/
-│   ├── tracks.csv
-│   └── artists.csv
-└── notebooks/
-    └── spotify_hit_analysis.ipynb
-
----
-
 ### How to Run Locally
 
 1.  **Clone the repository:**
