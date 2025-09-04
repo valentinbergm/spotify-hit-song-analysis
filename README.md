@@ -28,7 +28,7 @@ Our analysis revealed several statistically significant patterns that define a m
 * **Pop and Hip Hop are the dominant genres** for top-tier hits, representing the core of the current mainstream market.
 * **Fridays in Autumn show the highest success rates for releases,** confirming established industry patterns for maximizing release impact.
 
-*For a full, step-by-step walkthrough of the analysis, please see the accompanying Jupyter Notebook:* ### **[➡️ View the Full Analysis Notebook](./notebooks/spotify_hit_analysis.ipynb)**
+*For a full, step-by-step walkthrough of the analysis, please see the accompanying Jupyter Notebook:* ### **[➡️ View the Full Analysis Notebook](https://github.com/valentinbergm/spotify-hit-song-analysis/blob/main/spotify_hit_song_analysis.ipynb)**
 
 ---
 
